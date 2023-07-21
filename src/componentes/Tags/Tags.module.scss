@@ -1,0 +1,27 @@
+.tags {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+
+    li {
+        background-color: var(--cinza-claro);
+        border-radius: 20px;
+        padding: 5px;
+        text-align: center;
+        width: 200px;
+        color: var(--cinza-escuro);
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 700px) {
+    .tags {
+        align-items: center;
+        flex-direction: column;
+        gap: 1rem;
+
+        li {
+            width: 100%;
+        }
+    }
+}

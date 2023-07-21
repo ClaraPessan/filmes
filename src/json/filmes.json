@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Annabelle 3",
+        "description": "Os investigadores paranormais Ed e Lorraine Warren mantêm a boneca Annabelle trancada em uma sala de artefatos em sua casa. No entanto, em uma noite terrível, Annabelle desperta outros espíritos malignos e ameaça a jovem filha do casal e suas amigas.",
+        "photo": "/assets/annabelle.jpg",
+        "tag": "Terror",
+        "id": 1
+    },
+    {
+        "title": "As Branquelas",
+        "description": "Dois irmãos agentes do FBI, Marcus e Kevin Copeland, acidentalmente evitam que bandidos sejam presos em uma apreensão de drogas. Como castigo, eles são forçados a escoltar um par de socialites nos Hamptons. Quando as meninas descobrem o plano da agência, elas se recusam a ir. Sem opções, Marcus e Kevin, dois homens negros, decidem fingir que são as irmãs e se transformam em um par de loiras.",
+        "photo": "/assets/branquelas.jpeg",
+        "tag": "Comédia",
+        "id": 2
+    },
+    {
+        "title": "Como Eu Era Antes de Você",
+        "description": "De origem modesta e sem grandes aspirações, a peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico.",
+        "photo": "/assets/como-eu-era.jpg",
+        "tag": "Romance",
+        "id": 3
+    },
+    {
+        "title": "A Culpa é das Estrelas",
+        "description": "Hazel Grace Lancaster e Augustus Waters são dois adolescentes que se conhecem em um grupo de apoio para pacientes com câncer. Por causa da doença, Hazel sempre descartou a ideia de se envolver amorosamente, mas acaba cedendo ao se apaixonar por Augustus. Juntos, eles viajam para Amsterdã, onde embarcam em uma jornada inesquecível.",
+        "photo": "/assets/culpa-das-estrelas.jpg",
+        "tag": "Romance",
+        "id": 4
+    },
+    {
+        "title": "Gente Grande",
+        "description": "A morte do treinador de basquete de infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.",
+        "photo": "/assets/gente-grande.jpg",
+        "tag": "Comédia",
+        "id": 5
+    },
+    {
+        "title": "Guardiões da Galaxia",
+        "description": "O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.",
+        "photo": "/assets/guardioes-da-galaxia.jpg",
+        "tag": "Ação",
+        "id": 6
+    },
+    {
+        "title": "Harry Potter e a Pedra Filosofal",
+        "description": "Um garoto órfão descobre que é um bruxo e é convidado para estudar em Hogwarts, onde vive aventuras mágicas com seus amigos.",
+        "photo": "/assets/harry-potter-pedra.jpg",
+        "tag": "Ação",
+        "id": 7
+    },
+    {
+        "title": "Invocação do Mal",
+        "description": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar a família aterrorizada por uma entidade demoníaca em sua fazenda.",
+        "photo": "/assets/invocacao-do-mal.jpg",
+        "tag": "Terror",
+        "id": 8
+    },
+    {
+        "title": "Procurando o Nemo",
+        "description": "Em seu primeiro dia de aula, esquecendo os conselhos do pai superprotetor, Nemo é capturado por um mergulhador e acaba no aquário de um dentista. Enquanto Nemo tenta bolar um plano para escapar, seu pai cruza o oceano para resgatá-lo.",
+        "photo": "/assets/procurando-nemo.jpg",
+        "tag": "Animação",
+        "id": 9
+    },
+    {
+        "title": "Shrek",
+        "description": "Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo pra resgatar uma princesa.",
+        "photo": "/assets/shrek.jpg",
+        "tag": "Animação",
+        "id": 10
+    },
+    {
+        "title": "Sobrenatural",
+        "description": "A família Lambert acaba de se mudar. Logo, uma das crianças entra em coma de forma inexplicável, o que faz os pais pensarem que a nova casa abriga algum tipo de espírito do mal. Mas eles logo se mudam do local e nos dias seguintes acabam descobrindo que o problema não estava na casa e sim no próprio filho.",
+        "photo": "/assets/sobrenatural.jpg",
+        "tag": "Terror",
+        "id": 11
+    },
+    {
+        "title": "Super Mario Bross",
+        "description": "Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.",
+        "photo": "/assets/super-mario.jpg",
+        "tag": "Animação",
+        "id": 12
+    }
+]

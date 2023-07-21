@@ -1,0 +1,23 @@
+.filmes {
+    margin: 3rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+
+    li {
+        display: flex;
+        flex-direction: column;
+        background-color: var(--cinza-claro);
+    }
+
+    li img{
+        width: 200px;
+        height: 290px;
+        cursor: pointer;
+    }
+
+    li span {
+        text-align: center;
+    }
+}

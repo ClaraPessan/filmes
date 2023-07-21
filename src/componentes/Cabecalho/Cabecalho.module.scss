@@ -1,0 +1,23 @@
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    align-items: center;
+    background-color: var(--vinho);
+    padding: 1.5rem 0;
+
+    h1 {
+        color: white;
+        font-family: 'Paytone One', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 0.20rem;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 700px) {
+    .cabecalho {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
